@@ -89,18 +89,6 @@ Fail Probability : 22.2%
 
 ---
 
-## 📁 Project Structure
-
-```
-Student-Performance-Predictor/
-│
-├── student_performance_predictor.py   # Main ML script
-├── student_performance_results.png    # Output charts
-└── README.md                          # Project documentation
-```
-
----
-
 ## 👩‍💻 Author
 
 **Shreeya Trivedi**  
